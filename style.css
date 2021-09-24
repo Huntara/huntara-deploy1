@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@700&display=swap');
+
+* {
+    font-family: 'Bonheur Royale', cursive;
+}
+
+/* External css */
+body {
+  background-color: darkgray;
+}
+
+.name {
+  background-color: gray;
+  /* padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px; */ 
+  padding: 20px 20px 10px 20px;
+  text-align: center;
+  
+  /* margin-top: 50px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+  margin-left: 20px; */
+  margin: 50px 40px 30px 20px
+ weight: 200px;
+ height: 50px;
+ font-size: 25px;
+}
